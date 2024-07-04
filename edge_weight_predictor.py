@@ -4,7 +4,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import numpy as np
 from io import StringIO
-
+#added req.txt
 # Function to load and combine data from multiple CSV files
 def load_and_combine_data(file_paths):
     data_frames = []
